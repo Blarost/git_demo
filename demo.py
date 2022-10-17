@@ -5,7 +5,10 @@ def main():
 
 name = input("Give me your name: ")
 
-def greeting(name: str):
+def greet(name: str):
     print(f'Hello {name}!')
 
-greeting(name)
+greet(name)
+
+# TODO: something
+# TODO: implement main function
